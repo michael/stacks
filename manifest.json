@@ -1,0 +1,26 @@
+{
+  "name": "stacks",
+  "title": "Stacks",
+  "descr": "Visualizing groups of items using self-organizing stacks",
+  "version": "0.0.1",
+  "author": "Michael Aufreiter",
+  "author_homepage": "http://twitter.com/_mql",
+  "github_url": "http://github.com/michael/stacks",
+  "github_user": "michael",
+  "framework_name": "Unveil.js",
+  "framework_url": "http://github.com/michael/unveil",
+  "scripts": [
+    "lib/jquery-1.4.2.min.js",
+    "lib/jquery.mousewheel.js",
+    "lib/underscore.js",
+    "lib/protovis-d3.2.js",
+    "lib/unveil.js",
+    "artists.js",
+    "stacks.js",
+    "app.js"
+  ],
+  "contributors": [
+    "Samo Korosec",
+    "Martin Gamsjäger"
+  ]
+}
